@@ -12,6 +12,8 @@ Insights:
 - In addition to high expenses, <b>Discounts offered</b> made <b>Enterprise</b> segment <b>lose money (-ve profit, -ve profit margin ratio)</b>
 - <b>Paseo</b> product is the <b>best-seller product over all segments</b>
 
+![MarineGEO circle logo](FMSA Dashboard.jpg "MarineGEO logo")
+
 ------
 
 The finincial data used in this project is provided by Microsoft Learn, PowerBI Samples [(Financial Sample)](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
