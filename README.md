@@ -1,9 +1,7 @@
 # Financials Market Segmentation Analysis (PowerBi Dashboard)
 
-Hello There !! ^_^
-
 This Dashboard analyzes financial market segmentation, breaking it down in terms of sales, expenses, discounts, profit, units sold and products.
-I have found some interesting insights I would love to share with you, as well as giving you the opportunity to explore it yourself!!
+I have found some interesting insights I would love to share with you!!
 
 Insights:
 
@@ -16,4 +14,4 @@ Insights:
 
 ------
 
-The finincial data used in this project is provided by Microsoft Learn, PowerBI Samples <a href="https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download/" target="_blank">(Financial Sample)</a>
+The finincial data used in this project is provided by Microsoft Learn, PowerBI Samples [(Financial Sample)](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
