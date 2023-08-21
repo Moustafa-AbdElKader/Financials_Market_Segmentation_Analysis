@@ -3,6 +3,8 @@
 This Dashboard analyzes financial market segmentation, breaking it down in terms of sales, expenses, discounts, profit, units sold and products.
 I have found some interesting insights I would love to share with you!!
 
+I strongly suggest you to explore the dashboard yourself from [here](https://www.novypro.com/project/market-segmentation-analysis)!!
+
 Insights:
 
 - <b>Government</b> segment has the <b>Highest Total Profit (11.4 M $)</b>
@@ -12,7 +14,7 @@ Insights:
 - In addition to high expenses, <b>Discounts offered</b> made <b>Enterprise</b> segment <b>lose money (-ve profit, -ve profit margin ratio)</b>
 - <b>Paseo</b> product is the <b>best-seller product over all segments</b>
 
-![MarineGEO circle logo](FMSA Dashboard.jpg "MarineGEO logo")
+![FMSA Dashboard](FMSA_Dashboard.jpg)
 
 ------
 
